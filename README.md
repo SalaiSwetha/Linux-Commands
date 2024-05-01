@@ -62,5 +62,20 @@ logout<br>
 Connection to remotehost closed.<br>
 [user@host ~]$</b><br>
 
+Basic Command Syntax<br>
+<b>[user@host]$ whoami<br>
+user<br>
+[user@host]$</b><br>
+
+The following example shows how to combine two commands (command1 and command2) on the
+command line.<br>
+<b>[user@host]$ command1;command2</b><br>
+
+The date command displays the current date and time. It can also be used by the superuser to
+set the system clock. An argument that begins with a plus sign (+) specifies a format string for the
+date command.<br>
+<img src="Linux Commands 01.png">
+
+
 
 
