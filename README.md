@@ -71,10 +71,10 @@ The following example shows how to combine two commands (command1 and command2) 
 command line.<br>
 <b>[user@host]$ command1;command2</b><br>
 
-The date command displays the current date and time. It can also be used by the superuser to
+The <b>date</b> command displays the current date and time. It can also be used by the superuser to
 set the system clock. An argument that begins with a plus sign (+) specifies a format string for the
 date command.<br>
-<img src="Linux Commands 01.png">
+<img src="Linux Commands Date.png">
 
 
 
